@@ -1,0 +1,31 @@
+#inlcude <stdio.h>
+#inlcude <conio.h>
+
+int x,y,aux,a[6];
+
+main()
+{
+  for(x=0; x<=4; x++)
+  {
+    printf("Teclea el dato:");
+    scanf("%d",&a[x]);
+  }
+  
+  for(y=0; y<=4; y++)
+  {
+    for(x=0; x<=3; x++)
+    {
+      if(a[x] > a[x+1])
+      {
+        aux= a[x];
+        a[x+1]= aux;
+      }
+    }
+  }
+  
+  for(y=0; y<=4; y++)
+  {
+    printf("a[%d]= %d\, y, a[y]");
+  }
+  getch();
+}

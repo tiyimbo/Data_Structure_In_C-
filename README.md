@@ -18,3 +18,5 @@ Lenguaje de programación - Está constituido por un conjunto de reglas sintáct
 
 Sintáctica - Especifica la formación de instrucciones validas.
 Semántica - Especifica el significado de las instrucciones.
+
+Arreglos: Grupo o colección finita, homogénea y ordenada de elementos (también son conocidos como matrices y pueden ser unidimencionales, bidimencionales y multidimencionales).

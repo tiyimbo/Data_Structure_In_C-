@@ -6,6 +6,7 @@ Elementos básicos para la estructura de datos
 
 
 Glosario:
+
 Algoritmo - Conjunto de pasos, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema.
 
 Entrada - Lo que requerimos para que el programa se pueda llevar a cabo.
